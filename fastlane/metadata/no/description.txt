@@ -1,0 +1,6 @@
+Strike Legend er en roguelike boksesimulator hvor du kontrollerer en bokser og kjemper deg gjennom banen i en turneringsserie. Men det er opp til deg om du vil prøve arkademodus først. I arkademodus møter du tilfeldige motstandere og tjener spillmynter for hver seier. Men hvis du er med på den lange reisen, lar karrieremodus deg kjempe deg gjennom ni motstandere på rad, med det endelige målet å bli verdensmester.
+
+
+Fra kampen din tjener du spillmynter som du senere kan bruke på å oppgradere statistikken din og forbedre sjansene dine for å komme til topps. Valget er ditt. Øk helsen din, presisjonen, kraften din og mer. Hver oppgradering er levedyktig og gir en mulighet for forskjellige strategier. Når du spiller karrieremodus, har du én helsemåler for hele løpet, noe som gir deg en tøff avgjørelse: Trener du for å forbedre ferdighetene dine eller hviler du for å gjenopprette helsen til neste runde? Og hvis du taper, starter du fra null, men det er det fine med roguelikes. Finn strategien din, utvikle deg, tren og kom til toppen for å bli verdensmesterbokser.
+
+Bli med i kampene og bli den ultimate Strike Legend. Klar til å rumle?

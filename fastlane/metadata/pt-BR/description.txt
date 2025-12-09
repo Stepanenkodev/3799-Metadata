@@ -1,0 +1,5 @@
+Strike Legend é um simulador de boxe roguelike onde você controla um lutador e compete em uma série de torneios. Mas a escolha é sua: experimente o Modo Arcade primeiro. Nele, você enfrentará oponentes aleatórios e ganhará moedas do jogo a cada vitória. Se você quer uma jornada mais longa, o Modo Carreira permite que você lute contra nove oponentes seguidos, com o objetivo final de se tornar o Campeão Mundial.
+
+A cada luta, você ganhará moedas do jogo que poderão ser usadas para melhorar seus atributos e aumentar suas chances de chegar ao topo. A escolha é sua: aprimore sua saúde, precisão, força e muito mais. Cada melhoria é viável e oferece uma oportunidade para diferentes estratégias. No Modo Carreira, você tem apenas uma barra de vida para toda a partida, o que coloca você diante de uma difícil decisão: treinar para aprimorar suas habilidades ou descansar para recuperar a saúde para a próxima rodada? E se você perder, começa do zero, mas essa é a beleza dos roguelikes. Encontre sua estratégia, evolua, treine e chegue ao topo para se tornar o Campeão Mundial de Boxe.
+
+Entre nas lutas e torne-se a maior Lenda dos Golpes. Pronto para a pancadaria?

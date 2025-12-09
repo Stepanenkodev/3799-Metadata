@@ -1,0 +1,5 @@
+Strike Legend je roguelike boxerský simulátor, v ktorom ovládate bojovníka a bojujete naprieč turnajovou sériou. Je však len na vás, či si najprv vyskúšate arkádový režim. V arkádovom režime sa postavíte náhodným súperom a za každé víťazstvo získate herné mince. Ak ste však v hre na dlhú jazdu, kariérny režim vám umožní prebojovať sa proti deviatim súperom za sebou s konečným cieľom stať sa majstrom sveta.
+
+Z vášho boja získate herné mince, ktoré môžete neskôr minúť na vylepšenie svojich štatistík a zvýšiť si tak šance na dosiahnutie vrcholu. Výber je na vás, zlepšite si zdravie, presnosť, silu a ďalšie, každé vylepšenie je realizovateľné a poskytuje príležitosť na rôzne stratégie. Pri hraní kariérneho režimu máte na celú dobu jeden ukazovateľ zdravia, čo prináša ťažké rozhodnutie, či trénovať na zvýšenie úrovne svojich schopností alebo odpočívať, aby ste si obnovili zdravie na ďalšie kolo? A ak prehráte, začnete od nuly, ale v tom je krása roguelike hier. Nájdite si svoju stratégiu, vyvíjajte sa, trénujte a dostaňte sa na vrchol, aby ste sa stali majstrom sveta v boxe.
+
+Zapojte sa do bojov a staňte sa dokonalou Strike Legend. Ste pripravení na duel?

@@ -1,0 +1,6 @@
+A Strike Legend egy roguelike box szimulátor, ahol egy harcost irányítasz, és egy versenysorozat terepén küzdesz végig. De rajtad múlik, hogy először az Arcade módot próbálod-e ki. Arcade módban véletlenszerű ellenfelekkel nézel szembe, és minden győzelemmel játékbeli érméket szerezhetsz. De ha a hosszabb útra vágysz, a Career módban kilenc ellenféllel küzdhetsz meg egymás után, azzal a végső céllal, hogy világbajnok legyél.
+
+
+A harcodból játékbeli érméket szerezhetsz, amelyeket később a statisztikáid fejlesztésére költhetsz, hogy növeld az esélyeidet a csúcsra jutásra. A választás a tiéd, növeld az életerődet, a pontosságodat, az erődet és egyebeket, minden fejlesztés megvalósítható, és lehetőséget ad különböző stratégiákra. Career módban egyetlen életerő sávod van az egész menetre, ami nehéz döntést hoz: edzel a képességeid fejlesztésére, vagy pihensz, hogy visszanyerd az életerődet a következő körre? És ha veszítesz, a nulláról kezdesz, de a roguelike játékok szépsége... Találd meg a stratégiádat, fejlődj, eddz, és juss a csúcsra, hogy világbajnok bokszolóvá válj!
+
+Csatlakozz a harcokhoz, és válj a végső ütési legendává. Készen állsz a dübörgésre?
