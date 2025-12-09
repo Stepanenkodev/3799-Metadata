@@ -1,5 +1,17 @@
-Strike Legend ialah simulasi tinju roguelike di mana anda mengawal seorang pejuang dan bertarung melalui kawasan siri kejohanan. Tetapi terpulang kepada anda, jika anda mahu mencuba mod Arcade terlebih dahulu. Dalam Mod Arked, anda akan berhadapan dengan lawan rawak, memperoleh syiling permainan dengan setiap kemenangan. Tetapi jika anda berada di dalamnya untuk perjalanan yang jauh, Mod Kerjaya membolehkan anda bertarung melalui sembilan lawan berturut-turut, dengan matlamat utama untuk menjadi Juara Dunia.
+Peniaga Penyangak
+Kemas dengan lebih bijak. Dapatkan lebih besar. Menjadi pengembara legenda.
 
-Daripada pertarungan anda, anda akan memperoleh dalam syiling permainan yang kemudian anda boleh belanjakan untuk menaik taraf dan statistik anda meningkatkan peluang anda untuk menduduki tempat teratas. Pilihan adalah milik anda, tingkatkan kesihatan anda, ketepatan, kuasa dan banyak lagi, setiap peningkatan adalah berdaya maju dan memberi peluang untuk strategi yang berbeza. Apabila bermain mod Kerjaya anda mempunyai satu bar kesihatan untuk keseluruhan larian yang membawa keputusan sukar adakah anda berlatih untuk meningkatkan kebolehan anda atau berehat untuk memulihkan kesihatan untuk pusingan seterusnya? Dan jika anda kalah, anda bermula dari 0, tetapi itulah keindahan roguelikesCari strategi anda, berkembang, latih dan naik ke puncak untuk menjadi Juara Dunia Boxer
+Masuk ke dalam but pengembara mencari harta karun dengan satu matlamat: kumpulkan seberapa banyak harta rampasan yang boleh anda bawa... secara literal. Dalam Rogue Merchant, setiap peringkat mencabar anda untuk membuat keputusan pantas, menyusun timbunan barang berharga dan membungkusnya dengan kemas ke dalam beg galas anda yang boleh disesuaikan sebelum masa tamat.
 
-Sertai pergaduhan, dan jadilah Legenda Strike yang muktamad. Bersedia untuk berderu?
+Pilih item anda dengan bijak—masing-masing mempunyai nilai syiling, jarang dan bentuk yang menentukan sejauh mana ia sesuai dalam inventori anda. Apa yang anda tidak muat, anda tinggalkan. Apa yang anda berjaya bungkus menjadi ganjaran anda.
+
+Gunakan syiling hasil titik peluh anda untuk meningkatkan kemahiran anda, mengembangkan inventori anda dan membuka kunci kebolehan baharu seperti gulung semula, kunci, buang, nilai dagangan yang lebih baik, masa tambahan dan juga nasib yang lebih baik untuk rampasan yang jarang berlaku. Susun semula susun atur beg galas anda walau bagaimanapun anda ingin membina sistem yang sempurna untuk kecekapan harta karun maksimum.
+
+Setiap pengembaraan dibahagikan kepada dua peringkat:
+• Pemilihan Item – Pilih daripada set tiga item rawak semasa berlumba pemasa, menggunakan gulungan semula atau kunci apabila diperlukan.
+• Pembungkusan – Masukkan semuanya ke dalam grid inventori 6×9 anda sebelum pengiraan detik tamat, putar kepingan, susun strategi dan tekan "Escape" untuk menuntut kemenangan.
+
+Menang, dan pengembara anda meraikannya dengan beg galas penuh syiling. Kalah, dan… baiklah, dia tidak akan gembira.
+
+Bersedia untuk menguji kecerdasan, kelajuan dan kemahiran ruang anda?
+Legasi anda bermula sekarang.

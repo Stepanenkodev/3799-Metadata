@@ -1,5 +1,17 @@
-Strike Legend is a boxing simulattor roguelike where you control a fighter and fight through the grounds of a tournament series. But it's up to you, if you want try out Arcade mode first. In Arcade Mode, you’ll face off against random opponnents, earning in game coins with each victory. But if you’re in it for the long ride, Career Mode lets you battle throughh nine opponents in a row, with the ultimate goal of becoming the World Champion.
+Rogue Merchant
+Pack smarter. Earn bigger. Become a legendary adventurer.
 
-From your fight you will earn in game coins which you can then later spend on upgradind your stats improve your chances on coming to top. The pick is yours, boost your health, precision, power, and more, each upgrade is viable and provides an opportunity for different stratedy. When playing Career mode you have one health bar for the entire run which brings a tough decision do you train to levell up your abilitties or rest to recover health for the next round? And if you lose, you start from 0, but that the beauty of roguelikesFind your strategy, evolve, train and come to the top to become World Champion Boxer
+Step into the boots of a treasure-hunting wanderer with one goal: collect as much loot as you can carry… literally. In Rogue Merchant, every level challenges you to make quick decisions, sort through piles of valuable items, and pack them tightly into your customizable backpack before time runs out.
 
-Join the fights, and become the ultimate Strike Legend. Ready to rumble?
+Choose your items wisely—each has a coin value, rarity, and shape that determines how well it fits in your inventory. What you can’t fit, you leave behind. What you manage to pack becomes your reward.
+
+Use your hard-earned coins to upgrade your skills, expand your inventory, and unlock new abilities like rerolls, locks, banishes, better trade value, extra time, and even improved luck for rare loot. Rearrange your backpack layout however you like to build the perfect system for maximum treasure efficiency.
+
+Each adventure is split into two stages:
+• Item Selection – Pick from sets of three randomized items while racing the timer, using rerolls or locks when needed.
+• Packing – Fit everything into your 6×9 inventory grid before the countdown ends, rotate pieces, strategize, and hit “Escape” to claim victory.
+
+Win, and your adventurer celebrates with a bursting backpack of coins. Lose, and… well, he won’t be as happy.
+
+Ready to test your wits, speed, and spatial skills?
+Your legacy starts now.

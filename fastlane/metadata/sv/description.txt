@@ -1,6 +1,17 @@
-Strike Legend är en roguelike-boxningssimulator där du kontrollerar en fighter och kämpar dig igenom en turneringsserie. Men det är upp till dig om du vill prova arkadläget först. I arkadläget möter du slumpmässiga motståndare och tjänar spelmynt för varje seger. Men om du är med på den långa resan låter karriärläget dig kämpa dig igenom nio motståndare i rad, med det slutgiltiga målet att bli världsmästare.
+Rogue Merchant
+Packa smartare. Tjäna mer. Bli en legendarisk äventyrare.
 
+Kliv in i rollen som en skattjaktande vandrare med ett mål: samla så mycket byte du kan bära ... bokstavligen talat. I Rogue Merchant utmanar varje nivå dig att fatta snabba beslut, sortera igenom högar av värdefulla föremål och packa dem tätt i din anpassningsbara ryggsäck innan tiden rinner ut.
 
-Från din kamp tjänar du spelmynt som du senare kan spendera på att uppgradera din statistik och förbättra dina chanser att komma till topp. Valet är ditt, öka din hälsa, precision, kraft och mer, varje uppgradering är genomförbar och ger en möjlighet till olika strategier. När du spelar karriärläget har du en hälsomåga för hela loppet, vilket gör det svårt att besluta: träna för att höja dina förmågor eller vila för att återhämta hälsan inför nästa runda? Och om du förlorar börjar du från 0, men det är det fina med roguelikes. Hitta din strategi, utvecklas, träna och kom till toppen för att bli världsmästare i boxning.
+Välj dina föremål klokt – varje föremål har ett myntvärde, sällsynthet och form som avgör hur väl det får plats i ditt inventarium. Det du inte får plats med lämnar du kvar. Det du lyckas packa blir din belöning.
 
-Delta i striderna och bli den ultimata Strike Legend. Redo att dundra?
+Använd dina surt förvärvade mynt för att uppgradera dina färdigheter, utöka ditt inventarium och låsa upp nya förmågor som omkastningar, lås, förvisningar, bättre handelsvärde, extra tid och till och med förbättrad tur för sällsynt byte. Ordna om din ryggsäcks layout hur du vill för att bygga det perfekta systemet för maximal skatteffektivitet.
+
+Varje äventyr är uppdelat i två steg:
+• Föremålsval – Välj från uppsättningar av tre slumpmässiga föremål medan du tävlar mot timern, använd omkastningar eller lås vid behov.
+• Packning – Få plats med allt i ditt 6×9-inventarienät innan nedräkningen slutar, rotera pjäser, planera strategier och tryck på "Escape" för att vinna.
+
+Vinner du, firar din äventyrare med en fullspäckad ryggsäck full av mynt. Förlorar du,… ja, han kommer inte att vara lika glad.
+
+Redo att testa din intelligens, hastighet och dina spatiala färdigheter?
+Ditt arv börjar nu.

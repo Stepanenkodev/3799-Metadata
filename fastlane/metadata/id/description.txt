@@ -1,5 +1,17 @@
-Strike Legend adalah simulator tinju roguelike di mana Anda mengendalikan seorang petarung dan bertarung di arena turnamen. Namun, Anda bebas mencoba mode Arcade terlebih dahulu jika ingin. Dalam Mode Arcade, Anda akan menghadapi lawan acak dan mendapatkan koin dalam game untuk setiap kemenangan. Namun, jika Anda ingin bertarung dalam waktu lama, Mode Karier memungkinkan Anda melawan sembilan lawan berturut-turut dengan tujuan akhir menjadi Juara Dunia.
+Rogue Merchant
+Kemas lebih cerdas. Raih lebih banyak. Jadilah petualang legendaris.
 
-Dari pertarungan, Anda akan mendapatkan koin dalam game yang nantinya dapat digunakan untuk meningkatkan statistik dan meningkatkan peluang Anda untuk mencapai puncak. Pilihan ada di tangan Anda, tingkatkan kesehatan, presisi, kekuatan, dan lainnya. Setiap peningkatan memungkinkan dan memberikan peluang untuk strategi yang berbeda. Saat bermain Mode Karier, Anda hanya memiliki satu bar kesehatan untuk seluruh putaran, yang membuat Anda harus memutuskan apakah akan berlatih untuk meningkatkan kemampuan atau beristirahat untuk memulihkan kesehatan untuk ronde berikutnya? Dan jika kalah, Anda mulai dari awal lagi, tapi itulah indahnya roguelike. Temukan strategi Anda, berevolusi, berlatih, dan raih puncak untuk menjadi Juara Dunia Petinju.
+Rasakan petualangan seorang pengembara pemburu harta karun dengan satu tujuan: kumpulkan jarahan sebanyak yang bisa Anda bawa... secara harfiah. Di Rogue Merchant, setiap level menantang Anda untuk mengambil keputusan cepat, memilah tumpukan barang berharga, dan mengemasnya rapat-rapat ke dalam ransel Anda yang dapat disesuaikan sebelum waktu habis.
 
-Bergabunglah dalam pertarungan, dan jadilah Legenda Strike terhebat. Siap berduel?
+Pilih barang Anda dengan bijak—masing-masing memiliki nilai koin, kelangkaan, dan bentuk yang menentukan seberapa pasnya di inventaris Anda. Apa yang tidak muat, Anda tinggalkan. Apa yang berhasil Anda kemas menjadi hadiah Anda.
+
+Gunakan koin hasil jerih payah Anda untuk meningkatkan keterampilan, memperluas inventaris, dan membuka kemampuan baru seperti reroll, kunci, pengusiran, nilai tukar yang lebih baik, waktu tambahan, dan bahkan peningkatan keberuntungan untuk jarahan langka. Atur ulang tata letak ransel Anda sesuka Anda untuk membangun sistem yang sempurna demi efisiensi harta karun yang maksimal.
+
+Setiap petualangan dibagi menjadi dua tahap:
+• Pemilihan Item – Pilih dari tiga set item acak sambil berpacu dengan waktu, gunakan reroll atau kunci jika diperlukan.
+• Pengepakan – Masukkan semua item ke dalam kotak inventaris 6×9 Anda sebelum hitungan mundur berakhir, putar item, susun strategi, dan tekan "Escape" untuk meraih kemenangan.
+
+Menang, dan petualang Anda merayakannya dengan ransel penuh koin. Kalah, dan... yah, ia tidak akan segembira itu.
+
+Siap menguji kecerdasan, kecepatan, dan keterampilan spasial Anda?
+Warisan Anda dimulai sekarang.

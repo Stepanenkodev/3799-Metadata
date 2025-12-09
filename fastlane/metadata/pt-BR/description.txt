@@ -1,5 +1,17 @@
-Strike Legend é um simulador de boxe roguelike onde você controla um lutador e compete em uma série de torneios. Mas a escolha é sua: experimente o Modo Arcade primeiro. Nele, você enfrentará oponentes aleatórios e ganhará moedas do jogo a cada vitória. Se você quer uma jornada mais longa, o Modo Carreira permite que você lute contra nove oponentes seguidos, com o objetivo final de se tornar o Campeão Mundial.
+Mercador Aventureiro
+Economize com inteligência. Ganhe mais. Torne-se um aventureiro lendário.
 
-A cada luta, você ganhará moedas do jogo que poderão ser usadas para melhorar seus atributos e aumentar suas chances de chegar ao topo. A escolha é sua: aprimore sua saúde, precisão, força e muito mais. Cada melhoria é viável e oferece uma oportunidade para diferentes estratégias. No Modo Carreira, você tem apenas uma barra de vida para toda a partida, o que coloca você diante de uma difícil decisão: treinar para aprimorar suas habilidades ou descansar para recuperar a saúde para a próxima rodada? E se você perder, começa do zero, mas essa é a beleza dos roguelikes. Encontre sua estratégia, evolua, treine e chegue ao topo para se tornar o Campeão Mundial de Boxe.
+Assuma o papel de um andarilho caçador de tesouros com um único objetivo: coletar o máximo de itens que conseguir carregar... literalmente. Em Mercador Aventureiro, cada nível desafia você a tomar decisões rápidas, vasculhar pilhas de itens valiosos e organizá-los em sua mochila personalizável antes que o tempo acabe.
 
-Entre nas lutas e torne-se a maior Lenda dos Golpes. Pronto para a pancadaria?
+Escolha seus itens com sabedoria — cada um tem um valor em moedas, raridade e formato que determina o quão bem ele se encaixa no seu inventário. O que não couber, você deixa para trás. O que você conseguir levar se torna sua recompensa.
+
+Use suas moedas suadas para aprimorar suas habilidades, expandir seu inventário e desbloquear novas habilidades, como relançamentos, bloqueios, banimentos, melhor valor de troca, tempo extra e até mesmo sorte aprimorada para itens raros. Reorganize o layout da sua mochila como quiser para criar o sistema perfeito para máxima eficiência na coleta de tesouros.
+
+Cada aventura é dividida em duas etapas:
+• Seleção de Itens — Escolha entre conjuntos de três itens aleatórios enquanto corre contra o tempo, usando relançamentos ou bloqueios quando necessário. • Organização – Encaixe tudo na sua grade de inventário 6x9 antes que a contagem regressiva termine, gire as peças, elabore estratégias e pressione “Escape” para reivindicar a vitória.
+
+Vença e seu aventureiro comemorará com uma mochila cheia de moedas. Perca e… bem, ele não ficará tão feliz.
+
+Pronto para testar sua inteligência, velocidade e habilidades espaciais?
+
+Seu legado começa agora.

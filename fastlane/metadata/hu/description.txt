@@ -1,6 +1,16 @@
-A Strike Legend egy roguelike box szimulátor, ahol egy harcost irányítasz, és egy versenysorozat terepén küzdesz végig. De rajtad múlik, hogy először az Arcade módot próbálod-e ki. Arcade módban véletlenszerű ellenfelekkel nézel szembe, és minden győzelemmel játékbeli érméket szerezhetsz. De ha a hosszabb útra vágysz, a Career módban kilenc ellenféllel küzdhetsz meg egymás után, azzal a végső céllal, hogy világbajnok legyél.
+Zsiványkereskedő
+Pakolj okosabban. Keress többet. Válj legendás kalandorrá.
 
+Bújj egy kincsvadász vándor bőrébe egyetlen céllal: gyűjts annyi zsákmányt, amennyit csak elbírsz... szó szerint. A Zsiványkereskedőben minden szint arra ösztönöz, hogy gyors döntéseket hozz, átnézd az értékes tárgyak halmait, és szorosan becsomagold őket a testreszabható hátizsákodba, mielőtt lejár az idő.
 
-A harcodból játékbeli érméket szerezhetsz, amelyeket később a statisztikáid fejlesztésére költhetsz, hogy növeld az esélyeidet a csúcsra jutásra. A választás a tiéd, növeld az életerődet, a pontosságodat, az erődet és egyebeket, minden fejlesztés megvalósítható, és lehetőséget ad különböző stratégiákra. Career módban egyetlen életerő sávod van az egész menetre, ami nehéz döntést hoz: edzel a képességeid fejlesztésére, vagy pihensz, hogy visszanyerd az életerődet a következő körre? És ha veszítesz, a nulláról kezdesz, de a roguelike játékok szépsége... Találd meg a stratégiádat, fejlődj, eddz, és juss a csúcsra, hogy világbajnok bokszolóvá válj!
+Válaszd ki bölcsen a tárgyaidat – mindegyiknek van egy érmeértéke, ritkasága és formája, amely meghatározza, hogy mennyire illeszkedik a készletedbe. Amit nem tudsz beletenni, azt otthagyod. Amit sikerül becsomagolnod, az lesz a jutalmad.
 
-Csatlakozz a harcokhoz, és válj a végső ütési legendává. Készen állsz a dübörgésre?
+Használd a nehezen megszerzett érméidet képességeid fejlesztésére, a készleted bővítésére, és új képességek feloldására, mint például újradobás, zárolás, száműzés, jobb csereérték, extra idő, sőt még a ritka zsákmányokért szerzett jobb szerencse is. Rendezd át a hátizsákod elrendezését tetszésed szerint, hogy tökéletes rendszert építs a maximális kincshatékonyság érdekében.
+
+Minden kaland két szakaszra oszlik:
+• Tárgyválasztás – Válassz három véletlenszerű tárgyból álló készletek közül, miközben versenyzel az időzítővel, szükség esetén újradobást vagy zárolást használva. • Pakolással – Mindent illeszd be a 6×9-es leltárrácsodba, mielőtt véget ér a visszaszámlálás, forgasd meg a darabokat, dolgozz ki stratégiát, és nyomd meg a „Menekülés” gombot a győzelem megszerzéséhez.
+
+Ha nyersz, a kalandorod egy telepakolt hátizsáknyi érmével ünnepel. Ha veszítesz, és… nos, nem lesz olyan boldog.
+
+Készen állsz, hogy próbára tedd az eszedet, a gyorsaságodat és a térbeli képességeidet?
+Az örökséged most kezdődik.

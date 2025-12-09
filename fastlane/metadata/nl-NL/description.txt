@@ -1,5 +1,17 @@
-Strike Legend is een roguelike bokssimulator waarin je een vechter bestuurt en je een weg baant door een toernooiserie. Maar als je eerst de Arcade-modus wilt uitproberen, is het aan jou. In de Arcade-modus neem je het op tegen willekeurige tegenstanders en verdien je met elke overwinning in-game munten. Maar als je voor de lange termijn gaat, kun je in de Carrière-modus negen tegenstanders achter elkaar verslaan, met als uiteindelijk doel wereldkampioen te worden.
+Rogue Merchant
+Pak slimmer. Verdien meer. Word een legendarische avonturier.
 
-Je verdient in-game munten die je later kunt gebruiken om je statistieken te verbeteren en je kansen op de top te vergroten. De keuze is aan jou: verbeter je gezondheid, precisie, kracht en meer. Elke upgrade is haalbaar en biedt mogelijkheden voor verschillende strategieën. In de Carrière-modus heb je één gezondheidsbalk voor de hele run, wat je voor een lastige beslissing stelt: train je om je vaardigheden te verbeteren of rust je uit om je gezondheid te herstellen voor de volgende ronde? En als je verliest, begin je weer helemaal opnieuw, maar dat is nou juist de schoonheid van roguelikes. Vind je strategie, ontwikkel je, train en bereik de top om wereldkampioen boksen te worden.
+Stap in de schoenen van een schatzoekende zwerver met één doel: zoveel mogelijk buit verzamelen als je kunt dragen... letterlijk. In Rogue Merchant daagt elk level je uit om snel beslissingen te nemen, stapels waardevolle items te sorteren en ze strak in je aanpasbare rugzak te stoppen voordat de tijd om is.
 
-Doe mee aan de gevechten en word de ultieme Strike Legend. Klaar om te vechten?
+Kies je items verstandig - elk heeft een muntwaarde, zeldzaamheid en vorm die bepaalt hoe goed ze in je inventaris passen. Wat je niet kunt meenemen, laat je achter. Wat je wel kunt meenemen, wordt je beloning.
+
+Gebruik je zuurverdiende munten om je vaardigheden te verbeteren, je inventaris uit te breiden en nieuwe vaardigheden te ontgrendelen, zoals opnieuw gooien, sloten, verbanningen, een betere handelswaarde, extra tijd en zelfs meer geluk voor zeldzame buit. Herschik je rugzakindeling zoals je wilt om het perfecte systeem te creëren voor maximale schatefficiëntie.
+
+Elk avontuur is verdeeld in twee fasen:
+• Itemselectie – Kies uit sets van drie willekeurige items terwijl je de tijd verslaat, gebruik indien nodig rerolls of locks.
+• Inpakken – Plaats alles in je 6x9 inventaris voordat de aftelling eindigt, draai stukken, bedenk een strategie en druk op "Escape" om de overwinning te claimen.
+
+Win, en je avonturier viert dit met een volle rugzak vol munten. Verlies, en... tja, dan zal hij minder blij zijn.
+
+Klaar om je verstand, snelheid en ruimtelijk inzicht te testen?
+Je nalatenschap begint nu.

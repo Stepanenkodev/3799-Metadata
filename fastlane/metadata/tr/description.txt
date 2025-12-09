@@ -1,5 +1,17 @@
-Strike Legend, bir dövüşçüyü kontrol edip bir turnuva serisinin sahalarında dövüştüğünüz roguelike bir boks simülatörüdür. Ancak önce Arcade modunu denemek isterseniz, karar sizin. Arcade Modunda, rastgele rakiplerle karşılaşacak ve her galibiyetle oyun içi jeton kazanacaksınız. Ancak uzun bir yolculuğa hazırsanız, Kariyer Modu, Dünya Şampiyonu olma nihai hedefiyle üst üste dokuz rakiple dövüşmenizi sağlar.
+Hırsız Tüccar
+Daha akıllıca paketleyin. Daha çok kazanın. Efsanevi bir maceracı olun.
 
-Dövüşünüzden oyun içi jeton kazanacaksınız ve bunları daha sonra istatistiklerinizi geliştirmek ve zirveye çıkma şansınızı artırmak için kullanabilirsiniz. Seçim sizin; canınızı, isabetliliğinizi, gücünüzü ve daha fazlasını artırın; her geliştirme uygulanabilir ve farklı stratejiler için bir fırsat sunar. Kariyer modunu oynarken, tüm tur boyunca tek bir can barınız olacak ve bu da zor bir karar anlamına geliyor: Yeteneklerinizi geliştirmek için antrenman mı yapacaksınız yoksa bir sonraki tur için canınızı geri kazanmak için mi dinleneceksiniz? Kaybederseniz, sıfırdan başlarsınız, ancak roguelike'ların güzelliği burada. Stratejinizi bulun, gelişin, antrenman yapın ve zirveye ulaşarak Dünya Şampiyonu Boksör olun.
+Hazine avcısı bir gezginin yerine geçin ve tek bir hedef belirleyin: taşıyabileceğiniz kadar ganimet toplayın... kelimenin tam anlamıyla. Hırsız Tüccar'da her seviye, hızlı kararlar almanızı, değerli eşya yığınlarını ayırmanızı ve zaman dolmadan bunları özelleştirilebilir sırt çantanıza sıkıca yerleştirmenizi gerektirir.
 
-Dövüşlere katılın ve en büyük Strike Efsanesi olun. Kavgaya hazır mısınız?
+Eşyalarınızı akıllıca seçin; her birinin bir jeton değeri, nadirliği ve envanterinize ne kadar iyi sığacağını belirleyen bir şekli vardır. Sığdıramadıklarınızı geride bırakırsınız. Paketlemeyi başardıklarınız ödülünüz olur.
+
+Zor kazandığınız jetonlarınızı becerilerinizi geliştirmek, envanterinizi genişletmek ve yeniden atışlar, kilitlemeler, sürgünler, daha iyi ticaret değeri, ekstra zaman ve hatta nadir ganimet için daha fazla şans gibi yeni yeteneklerin kilidini açmak için kullanın. Maksimum hazine verimliliği için mükemmel sistemi oluşturmak üzere sırt çantanızın düzenini istediğiniz gibi yeniden düzenleyin.
+
+Her macera iki aşamaya ayrılmıştır:
+• Eşya Seçimi – Zamanlayıcıyla yarışırken rastgele seçilmiş üç eşya setinden seçim yapın, gerektiğinde yeniden atışları veya kilitleri kullanın.
+• Paketleme – Geri sayım bitmeden her şeyi 6x9 envanter ızgaranıza yerleştirin, parçaları döndürün, stratejinizi belirleyin ve zaferi ilan etmek için "Kaç" tuşuna basın.
+
+Kazanırsanız, maceracınız para dolu bir sırt çantasıyla kutlama yapar. Kaybederseniz... pek de mutlu olmayacaktır.
+
+Zekânızı, hızınızı ve mekansal becerilerinizi test etmeye hazır mısınız?
+Mirasınız şimdi başlıyor.

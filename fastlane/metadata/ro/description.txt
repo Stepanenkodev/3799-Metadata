@@ -1,6 +1,18 @@
-Strike Legend este un simulator de box roguelike în care controlezi un luptător și lupți pe terenul unei serii de turnee. Dar depinde de tine dacă vrei să încerci mai întâi modul Arcade. În modul Arcade, te vei confrunta cu adversari aleatori, câștigând monede de joc cu fiecare victorie. Dar dacă ești pe cale să mergi mai departe, modul Carieră îți permite să lupți cu nouă adversari la rând, cu scopul final de a deveni Campion Mondial.
+Negustor Necazul
+Împachetează mai inteligent. Câștigă mai mult. Devino un aventurier legendar.
 
+Intră în pielea unui rătăcitor vânător de comori cu un singur obiectiv: adună cât mai multă pradă poți căra... la propriu. În Negustor Necazul, fiecare nivel te provoacă să iei decizii rapide, să sortezi grămezi de obiecte valoroase și să le împachetezi strâns în rucsacul tău personalizabil înainte de expirarea timpului.
 
-În lupta ta vei câștiga monede de joc pe care le poți cheltui ulterior pentru a-ți îmbunătăți statisticile și a-ți spori șansele de a ajunge în top. Alegerea îți aparține, îmbunătățește-ți sănătatea, precizia, puterea și multe altele, fiecare îmbunătățire fiind viabilă și oferind o oportunitate pentru strategii diferite. Când joci modul Carieră, ai o singură bară de sănătate pentru întreaga rundă, ceea ce aduce o decizie dificilă: te antrenezi pentru a-ți crește abilitățile sau te odihnești pentru a recupera sănătatea pentru runda următoare? Și dacă pierzi, începi de la 0, dar asta e frumusețea jocurilor roguelikes. Găsește-ți strategia, evoluează, antrenează-te și ajunge în vârf pentru a deveni Campion Mondial la Boxer.
+Alege-ți obiectele cu înțelepciune - fiecare are o valoare a monedei, o raritate și o formă care determină cât de bine se potrivește în inventarul tău. Ceea ce nu poți încăpea, lași în urmă. Ceea ce reușești să împachetezi devine recompensa ta.
 
-Alătură-te luptelor și devino Legenda Supremă a Strike-ului. Ești gata de luptă?
+Folosește-ți monedele câștigate cu greu pentru a-ți îmbunătăți abilitățile, a-ți extinde inventarul și a debloca noi abilități, cum ar fi reluări, blocări, alungări, valoare comercială mai bună, timp suplimentar și chiar noroc îmbunătățit pentru pradă rară. Rearanjează-ți aspectul rucsacului cum dorești pentru a construi sistemul perfect pentru o eficiență maximă a comorii.
+
+Fiecare aventură este împărțită în două etape:
+
+• Selecția obiectelor - Alege din seturi de trei obiecte aleatorii în timp ce te întreci cu cronometrul, folosind reluări sau blocări atunci când este nevoie.
+• Împachetare – Încadrează totul în grila ta de inventar de 6×9 înainte ca numărătoarea inversă să se termine, rotește piesele, elaborează strategii și apasă „Escape” pentru a revendica victoria.
+
+Dacă câștigi, aventurierul tău va sărbători cu un rucsac plin de monede. Dacă pierzi,... ei bine, nu va fi la fel de fericit.
+
+Ești gata să-ți testezi inteligența, viteza și abilitățile spațiale?
+Moștenirea ta începe acum.

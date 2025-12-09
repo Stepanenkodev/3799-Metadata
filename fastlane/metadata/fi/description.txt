@@ -1,5 +1,16 @@
-Strike Legend on roguelike-nyrkkeilysimulaattori, jossa ohjaat taistelijaa ja taistelet turnaussarjan alueella. Mutta on sinusta kiinni, haluatko kokeilla ensin Arcade-tilaa. Arcade-tilassa kohtaat satunnaisia ​​vastustajia ja ansaitset pelin sisäisiä kolikoita jokaisesta voitosta. Mutta jos olet pitkällä matkalla, Career-tilassa voit taistella yhdeksän vastustajan kanssa peräkkäin, ja lopullinen tavoite on tulla maailmanmestariksi.
+Rogue Merchant
+Pakkaa fiksummin. Tienaa enemmän. Tule legendaariseksi seikkailijaksi.
 
-Ansaitset taistelustasi pelin sisäisiä kolikoita, joita voit myöhemmin käyttää tilastojesi parantamiseen ja mahdollisuuksiisi nousta huipulle. Valinta on sinun, paranna terveyttäsi, tarkkuuttasi, voimaasi ja paljon muuta. Jokainen päivitys on toteuttamiskelpoinen ja tarjoaa mahdollisuuden erilaisiin strategioihin. Career-tilassa sinulla on yksi terveyspalkki koko juoksun ajan, mikä tuo mukanaan vaikean valinnan: harjoitteletko parantaaksesi kykyjäsi vai lepäätkö palauttaaksesi terveyttä seuraavaa kierrosta varten? Ja jos häviät, aloitat nollasta, mutta roguelike-pelien kauneus on juuri sitä, mitä tarvitset. Löydä strategiasi, kehity, harjoittele ja saavuta huipputaso nyrkkeilyn maailmanmestariksi.
+Astu aarteenmetsästysvaeltajan saappaisiin yhdellä tavoitteella: kerätä niin paljon saalista kuin pystyt kantamaan... kirjaimellisesti. Rogue Merchantissa jokainen taso haastaa sinut tekemään nopeita päätöksiä, lajittelemaan arvokkaiden esineiden pinoja ja pakkaamaan ne tiiviisti muokattavissa olevaan reppuusi ennen kuin aika loppuu.
 
-Liity taisteluihin ja tule äärimmäiseksi Strike-legendaksi. Valmis taistelemaan?
+Valitse esineesi viisaasti – jokaisella on kolikon arvo, harvinaisuus ja muoto, jotka määrittävät, kuinka hyvin se sopii tavaraluetteloosi. Mitä et mahdu, jätät taaksesi. Se, minkä onnistut pakata, on palkintosi.
+
+Käytä kovalla työllä ansaitsemiasi kolikoita taitojasi päivittääksesi, laajentaaksesi tavaraluetteloasi ja avataksesi uusia kykyjä, kuten uudelleenrullauksia, lukkoja, karkotuksia, parempaa vaihtoarvoa, lisäaikaa ja jopa parempaa onnea harvinaisten saaliiden osalta. Järjestä reppusi asettelu haluamallasi tavalla rakentaaksesi täydellisen järjestelmän maksimaalisen aarteiden tehokkuuden saavuttamiseksi.
+
+Jokainen seikkailu on jaettu kahteen vaiheeseen:
+• Esineen valinta – Valitse kolmen satunnaistetun esineen joukosta kilpaillen ajastinta käyttäen. Käytä uudelleenrullauksia tai lukkoja tarvittaessa. • Pakkaaminen – Mahduta kaikki 6×9-ruutuun ennen lähtölaskennan loppua, kierrä nappuloita, suunnittele strategia ja paina "Pako"-painiketta varmistaaksesi voiton.
+
+Jos voitat, seikkailijasi juhlii räjähtävällä kolikkorepulla. Jos häviät,... no, hän ei ole yhtä onnellinen.
+
+Valmis testaamaan älykkyyttäsi, nopeuttasi ja tilanhahmotuskykyäsi?
+Perintösi alkaa nyt.

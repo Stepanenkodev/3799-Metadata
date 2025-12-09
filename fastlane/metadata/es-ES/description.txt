@@ -1,5 +1,17 @@
-Strike Legend es un simulador de boxeo roguelike donde controlas a un luchador y luchas en el campo de batalla de una serie de torneos. Pero tú decides si quieres probar primero el modo Arcade. En el modo Arcade, te enfrentarás a oponentes aleatorios y ganarás monedas del juego con cada victoria. Si te apetece una aventura larga, el modo Carrera te permite luchar contra nueve oponentes seguidos, con el objetivo final de convertirte en el Campeón del Mundo.
+Mercader Renegado
+Empaca con inteligencia. Gana más. Conviértete en un aventurero legendario.
 
-En cada combate ganarás monedas del juego que podrás gastar para mejorar tus estadísticas y aumentar tus posibilidades de llegar a la cima. Tú decides: aumenta tu salud, precisión, potencia y más. Cada mejora es viable y te da la oportunidad de usar diferentes estrategias. Al jugar en el modo Carrera, tienes una barra de salud durante toda la partida, lo que te plantea una difícil decisión: ¿entrenas para subir de nivel tus habilidades o descansas para recuperar salud para la siguiente ronda? Y si pierdes, empiezas desde cero, pero ahí está la gracia de los roguelikes: encuentra tu estrategia, evoluciona, entrena y llega a la cima para convertirte en el Boxeador Campeón Mundial.
+Ponte en la piel de un cazador de tesoros con un solo objetivo: recolectar todo el botín que puedas llevar... literalmente. En Mercader Renegado, cada nivel te reta a tomar decisiones rápidas, clasificar montones de objetos valiosos y guardarlos en tu mochila personalizable antes de que se acabe el tiempo.
 
-Únete a las peleas y conviértete en la Leyenda definitiva del Strike. ¿Listo para la batalla?
+Elige tus objetos con cuidado: cada uno tiene un valor monetario, una rareza y una forma que determina qué tan bien caben en tu inventario. Lo que no cabe, lo dejas atrás. Lo que consigas empacar se convierte en tu recompensa.
+
+Usa las monedas que tanto te costó ganar para mejorar tus habilidades, expandir tu inventario y desbloquear nuevas habilidades como repeticiones, bloqueos, destierros, mejor valor comercial, tiempo extra e incluso mejor suerte para el botín raro. Reorganiza la distribución de tu mochila como quieras para crear el sistema perfecto para maximizar la eficiencia del tesoro.
+
+Cada aventura se divide en dos etapas:
+• Selección de objetos: Elige entre conjuntos de tres objetos aleatorios mientras corres contra el cronómetro, usando repeticiones de tiradas o bloqueos cuando sea necesario.
+• Empaquetado: Coloca todo en tu inventario de 6x9 antes de que termine la cuenta regresiva, rota las piezas, crea una estrategia y pulsa "Escapar" para alzarte con la victoria.
+
+Si ganas, tu aventurero celebrará con una mochila llena de monedas. Si pierdes, y... bueno, no estará tan contento.
+
+¿Listo para poner a prueba tu ingenio, velocidad y habilidades espaciales?
+Tu legado comienza ahora.

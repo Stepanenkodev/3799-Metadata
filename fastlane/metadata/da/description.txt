@@ -1,6 +1,17 @@
-Strike Legend er en roguelike boksesimulator, hvor du styrer en fighter og kæmper dig gennem en turneringsserie. Men det er op til dig, om du vil prøve Arcade-tilstanden først. I Arcade-tilstand møder du tilfældige modstandere og tjener spilmønter for hver sejr. Men hvis du er med på den lange rejse, lader Karriere-tilstanden dig kæmpe dig gennem ni modstandere i træk med det ultimative mål at blive verdensmester.
+Rogue Merchant
+Pak smartere. Tjen mere. Bliv en legendarisk eventyrer.
 
+Træd i skoene som en skattejæger med ét mål: at samle så meget bytte, som du kan bære ... bogstaveligt talt. I Rogue Merchant udfordrer hvert niveau dig til at træffe hurtige beslutninger, sortere bunker af værdifulde genstande og pakke dem tæt ned i din brugerdefinerbare rygsæk, før tiden løber ud.
 
-Fra din kamp tjener du spilmønter, som du senere kan bruge på at opgradere dine statistikker og forbedre dine chancer for at komme til tops. Valget er dit. Boost dit helbred, din præcision, din kraft og mere. Hver opgradering er realistisk og giver mulighed for forskellige strategier. Når du spiller Karriere-tilstand, har du én sundhedsbar for hele løbet, hvilket giver dig en svær beslutning: Skal du træne for at forbedre dine evner eller hvile for at genvinde dit helbred til næste runde? Og hvis du taber, starter du fra 0, men det er skønheden ved roguelikes. Find din strategi, udvikl, træn og kom til toppen for at blive verdensmester i boksning.
+Vælg dine genstande med omhu – hver har en møntværdi, sjældenhed og form, der bestemmer, hvor godt den passer ind i dit inventar. Det, du ikke kan få plads til, efterlader du. Det, du formår at pakke, bliver din belønning.
 
-Deltag i kampene, og bliv den ultimative Strike Legend. Klar til at rumle?
+Brug dine hårdt tjente mønter til at opgradere dine færdigheder, udvide dit inventar og låse op for nye evner som genkast, låse, forvisninger, bedre handelsværdi, ekstra tid og endda forbedret held for sjældent bytte. Omarranger din rygsæks layout, som du vil, for at opbygge det perfekte system for maksimal skatteeffektivitet.
+
+Hvert eventyr er opdelt i to faser:
+• Genstandsvalg – Vælg mellem sæt af tre tilfældige genstande, mens du kører kap med timeren, og brug genkast eller låse, når det er nødvendigt.
+• Pakning – Få alt ind i dit 6×9-inventarfelt, før nedtællingen slutter, roter brikker, læg strategi, og tryk på "Escape" for at vinde.
+
+Vind, og din eventyrer fejrer med en sprængende rygsæk fyldt med mønter. Tab, og... ja, han vil ikke være lige så glad.
+
+Klar til at teste din kløgt, hastighed og rumlige færdigheder?
+Din arv starter nu.

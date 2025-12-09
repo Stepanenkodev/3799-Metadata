@@ -1,1 +1,1 @@
-leikki, simulaattori, taistelu, peliyhdistelmä, laatikko, nyrkkeily
+peli, leikki, saalis, keräilijä, reppu, palapeli, strategia

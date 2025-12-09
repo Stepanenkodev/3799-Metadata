@@ -1,5 +1,18 @@
-Strike Legend je roguelike boxerský simulátor, v ktorom ovládate bojovníka a bojujete naprieč turnajovou sériou. Je však len na vás, či si najprv vyskúšate arkádový režim. V arkádovom režime sa postavíte náhodným súperom a za každé víťazstvo získate herné mince. Ak ste však v hre na dlhú jazdu, kariérny režim vám umožní prebojovať sa proti deviatim súperom za sebou s konečným cieľom stať sa majstrom sveta.
+Rogue Merchant
+Zbaľte sa múdrejšie. Zarábajte viac. Staňte sa legendárnym dobrodruhom.
 
-Z vášho boja získate herné mince, ktoré môžete neskôr minúť na vylepšenie svojich štatistík a zvýšiť si tak šance na dosiahnutie vrcholu. Výber je na vás, zlepšite si zdravie, presnosť, silu a ďalšie, každé vylepšenie je realizovateľné a poskytuje príležitosť na rôzne stratégie. Pri hraní kariérneho režimu máte na celú dobu jeden ukazovateľ zdravia, čo prináša ťažké rozhodnutie, či trénovať na zvýšenie úrovne svojich schopností alebo odpočívať, aby ste si obnovili zdravie na ďalšie kolo? A ak prehráte, začnete od nuly, ale v tom je krása roguelike hier. Nájdite si svoju stratégiu, vyvíjajte sa, trénujte a dostaňte sa na vrchol, aby ste sa stali majstrom sveta v boxe.
+Vžijte sa do role lovca pokladov s jediným cieľom: nazbierať čo najviac koristi, koľko dokážete uniesť... doslova. V hre Rogue Merchant vás každá úroveň vyzýva, aby ste sa rýchlo rozhodovali, triedili kopy cenných predmetov a pevne ich balili do svojho prispôsobiteľného batohu skôr, ako vyprší čas.
 
-Zapojte sa do bojov a staňte sa dokonalou Strike Legend. Ste pripravení na duel?
+Vyberajte si predmety múdro – každý má hodnotu mince, vzácnosť a tvar, ktoré určujú, ako dobre sa zmestí do vášho inventára. Čo sa vám nezmestí, necháte za sebou. To, čo sa vám podarí zbaliť, sa stane vašou odmenou.
+
+Použite svoje ťažko zarobené mince na vylepšenie svojich zručností, rozšírenie inventára a odomknutie nových schopností, ako sú prehrávanie, zamykanie, vyhnanstvo, lepšia obchodná hodnota, čas navyše a dokonca aj lepšie šťastie pri vzácnej koristi. Usporiadajte si rozloženie batohu podľa vlastného uváženia a vytvorte si dokonalý systém pre maximálnu efektivitu pokladov.
+
+Každé dobrodružstvo je rozdelené do dvoch fáz:
+
+• Výber predmetov – Vyberte si zo sád troch náhodných predmetov a zároveň pretekajte s časom. V prípade potreby použite prehrávanie alebo zamykanie.
+• Balenie – Vložte všetko do mriežky inventára 6×9 ešte pred koncom odpočítavania, otočte figúrky, vymyslite stratégiu a stlačte tlačidlo „Únik“, aby ste si zabezpečili víťazstvo.
+
+Vyhrajte a váš dobrodruh oslávi s praskajúcim batohom mincí. Prehrajte a... no, nebude taký šťastný.
+
+Ste pripravení otestovať si svoj dôvtip, rýchlosť a priestorové schopnosti?
+Váš odkaz začína teraz.

@@ -1,5 +1,17 @@
-Strike Legend to symulator boksu roguelike, w którym sterujesz zawodnikiem i walczysz na arenie serii turniejów. Ale to od Ciebie zależy, czy najpierw wypróbujesz tryb Arcade. W trybie Arcade zmierzysz się z losowymi przeciwnikami, zdobywając monety w grze za każde zwycięstwo. Jeśli jednak chcesz się wciągnąć, tryb Career pozwoli Ci zmierzyć się z dziewięcioma przeciwnikami z rzędu, a Twoim ostatecznym celem jest zostanie Mistrzem Świata.
+Rogue Merchant
+Pakuj mądrzej. Zarabiaj więcej. Zostań legendarnym poszukiwaczem przygód.
 
-Za swoje walki zdobędziesz monety w grze, które możesz później wydać na ulepszanie swoich statystyk i zwiększanie szans na zwycięstwo. Wybór należy do Ciebie: zwiększ swoje zdrowie, precyzję, siłę i wiele więcej – każde ulepszenie jest wykonalne i daje możliwość zastosowania różnych strategii. Grając w trybie Career, masz jeden pasek zdrowia na cały czas, co stawia Cię przed trudnym wyborem: czy trenować, aby zwiększyć swoje umiejętności, czy odpoczywać, aby zregenerować zdrowie na kolejną rundę? A jeśli przegrasz, zaczynasz od zera, ale to piękno roguelike'ów. Znajdź swoją strategię, rozwijaj się, trenuj i osiągnij szczyt, aby zostać Mistrzem Świata w Boksie.
+Wciel się w rolę wędrowca-poszukiwacza skarbów z jednym celem: zbierz jak najwięcej łupów… dosłownie. W Rogue Merchant każdy poziom wymaga od Ciebie szybkich decyzji, przesortowania stosów cennych przedmiotów i upchania ich ciasno do Twojego personalizowanego plecaka, zanim skończy się czas.
 
-Dołącz do walk i zostań Legendą Strike'a. Gotowy do walki?
+Dobieraj przedmioty mądrze – każdy ma swoją wartość w monetach, rzadkość i kształt, które decydują o tym, jak dobrze pasuje do Twojego ekwipunku. To, czego nie zmieścisz, zostawiasz. To, co uda Ci się spakować, staje się Twoją nagrodą.
+
+Wykorzystaj ciężko zarobione monety, aby ulepszać swoje umiejętności, powiększać ekwipunek i odblokowywać nowe zdolności, takie jak ponowne rzuty, blokady, wygnania, lepsza wartość handlowa, dodatkowy czas, a nawet większe szczęście w przypadku rzadkich łupów. Zmień układ plecaka w dowolny sposób, aby stworzyć idealny system zapewniający maksymalną efektywność skarbów.
+
+Każda przygoda składa się z dwóch etapów:
+• Wybór przedmiotów – Wybieraj spośród zestawów trzech losowych przedmiotów, ścigając się z czasem, korzystając z powtórnych rzutów lub blokad w razie potrzeby.
+• Pakowanie – Zmieść wszystko w siatce ekwipunku 6×9 przed zakończeniem odliczania, obróć elementy, opracuj strategię i naciśnij „Escape”, aby odnieść zwycięstwo.
+
+Wygraj, a Twój poszukiwacz przygód będzie świętował z plecakiem pełnym monet. Przegraj, a… cóż, nie będzie tak szczęśliwy.
+
+Gotowy, aby sprawdzić swój spryt, szybkość i zdolności przestrzenne?
+Twoje dziedzictwo zaczyna się teraz.

@@ -1,5 +1,18 @@
-Strike Legend là một game nhập vai roguelike mô phỏng quyền anh, nơi bạn điều khiển một võ sĩ và chiến đấu trên khắp đấu trường của một loạt giải đấu. Tuy nhiên, bạn có thể thử chế độ Arcade trước nếu muốn. Ở chế độ Arcade, bạn sẽ đối đầu với các đối thủ ngẫu nhiên, kiếm được xu trong trò chơi với mỗi chiến thắng. Nhưng nếu bạn muốn một hành trình dài, Chế độ Sự nghiệp cho phép bạn chiến đấu với chín đối thủ liên tiếp, với mục tiêu cuối cùng là trở thành Nhà vô địch Thế giới.
+Rogue Merchant
+Gói đồ thông minh hơn. Kiếm nhiều hơn. Trở thành một nhà thám hiểm huyền thoại.
 
-Từ các trận đấu, bạn sẽ kiếm được xu trong trò chơi, sau đó có thể dùng để nâng cấp chỉ số, cải thiện cơ hội lên đỉnh cao. Lựa chọn là của bạn, hãy tăng cường sức khỏe, độ chính xác, sức mạnh và hơn thế nữa, mỗi lần nâng cấp đều khả thi và mang đến cơ hội cho các chiến lược khác nhau. Khi chơi chế độ Sự nghiệp, bạn chỉ có một thanh máu cho toàn bộ lượt chơi, điều này đặt ra một quyết định khó khăn: bạn nên luyện tập để nâng cấp kỹ năng hay nghỉ ngơi để hồi phục sức khỏe cho vòng tiếp theo? Và nếu thua, bạn sẽ bắt đầu từ con số 0, nhưng đó chính là vẻ đẹp của roguelike. Hãy tìm ra chiến lược, phát triển, luyện tập và vươn lên đỉnh cao để trở thành Nhà vô địch Quyền Anh Thế giới.
+Hãy vào vai một kẻ lang thang săn tìm kho báu với một mục tiêu duy nhất: thu thập càng nhiều chiến lợi phẩm càng tốt… theo đúng nghĩa đen. Trong Rogue Merchant, mỗi màn chơi đều thử thách bạn đưa ra quyết định nhanh chóng, phân loại các vật phẩm giá trị và đóng gói chúng thật chặt vào ba lô tùy chỉnh của mình trước khi hết thời gian.
 
-Tham gia các trận đấu và trở thành Huyền thoại Đấu trường đỉnh cao. Sẵn sàng chinh phục chưa?
+Hãy lựa chọn vật phẩm một cách khôn ngoan—mỗi vật phẩm có giá trị xu, độ hiếm và hình dạng riêng, quyết định mức độ phù hợp của chúng với kho đồ của bạn. Những gì bạn không thể nhét vừa, bạn sẽ bỏ lại. Những gì bạn đóng gói được sẽ là phần thưởng của bạn.
+
+Hãy sử dụng những đồng xu khó kiếm được để nâng cấp kỹ năng, mở rộng kho đồ và mở khóa các khả năng mới như tung lại, khóa, trục xuất, giá trị trao đổi tốt hơn, thêm thời gian và thậm chí là cải thiện may mắn cho các chiến lợi phẩm hiếm. Hãy sắp xếp lại bố cục ba lô theo ý thích của bạn để xây dựng một hệ thống hoàn hảo cho hiệu quả kho báu tối đa.
+
+Mỗi cuộc phiêu lưu được chia thành hai giai đoạn:
+• Chọn Vật phẩm – Chọn từ bộ ba vật phẩm ngẫu nhiên trong khi chạy đua với thời gian, sử dụng tung lại hoặc khóa khi cần.
+
+• Đóng gói – Xếp tất cả mọi thứ vào ô hành trang 6x9 của bạn trước khi thời gian đếm ngược kết thúc, xoay các quân cờ, lập chiến lược và nhấn "Thoát" để giành chiến thắng.
+
+Chiến thắng, và nhà thám hiểm của bạn sẽ ăn mừng với một ba lô đầy tiền xu. Thua cuộc, và… ừm, anh ta sẽ không còn vui vẻ nữa.
+
+Sẵn sàng thử thách trí thông minh, tốc độ và kỹ năng không gian của bạn chưa?
+Di sản của bạn bắt đầu ngay bây giờ.
